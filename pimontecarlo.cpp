@@ -1,7 +1,4 @@
-#include<bits/stdc++.h>
 #include <iostream>
-#include <cmath>
-#include<ctime>
 #include <random>
 
 using namespace std;
